@@ -1,0 +1,476 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "total": 29,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2019",
+            "value": 44957458,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2018",
+            "value": 45208907,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2017",
+            "value": 45436041,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2016",
+            "value": 45616832,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2015",
+            "value": 45784896,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2014",
+            "value": 45972380,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2013",
+            "value": 46126770,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2012",
+            "value": 46210056,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2011",
+            "value": 46307853,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2010",
+            "value": 46456003,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2009",
+            "value": 46623731,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2008",
+            "value": 46819175,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2007",
+            "value": 47062798,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2006",
+            "value": 47278694,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2005",
+            "value": 47585556,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2004",
+            "value": 47979507,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2003",
+            "value": 48315136,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2002",
+            "value": 48677281,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2001",
+            "value": 49106855,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "2000",
+            "value": 49556660,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1999",
+            "value": 49976446,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1998",
+            "value": 50379731,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1997",
+            "value": 50786885,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1996",
+            "value": 51226109,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1995",
+            "value": 51665539,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1994",
+            "value": 52075998,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1993",
+            "value": 52350126,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1992",
+            "value": 52323671,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "UA",
+                "value": "Ukraine"
+            },
+            "countryiso3code": "UKR",
+            "date": "1991",
+            "value": 52170961,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]
