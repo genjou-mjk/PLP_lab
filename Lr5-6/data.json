@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Vasiliy",
+        "Surname": "Logvinov",
+        "Patronymic": "Antonovich",
+        "Adress": "Mira 5",
+        "School": 9,
+        "Class": 6
+    },
+    {
+        "Name": "Anton",
+        "Surname": "Lipovyi",
+        "Patronymic": "Andreevich",
+        "Adress": "Naberezhnaya 10",
+        "School": 10,
+        "Class": 10
+    },
+    {
+        "Name": "Alina",
+        "Surname": "Popovich",
+        "Patronymic": "Viktorovna",
+        "Adress": "Pushkina 5",
+        "School": 10,
+        "Class": 11
+    },
+    {
+        "Name": "Dmytro",
+        "Surname": "Koval",
+        "Patronymic": "Petrovych",
+        "Adress": "Shevchenka 12",
+        "School": 9,
+        "Class": 7
+    },
+    {
+        "Name": "Sofia",
+        "Surname": "Melnyk",
+        "Patronymic": "Tarasivna",
+        "Adress": "Kyivska 22",
+        "School": 9,
+        "Class": 7
+    },
+    {
+        "Name": "Maxim",
+        "Surname": "Boyko",
+        "Patronymic": "Sergiyovych",
+        "Adress": "Haharina 3",
+        "School": 9,
+        "Class": 8
+    },
+    {
+        "Name": "Kateryna",
+        "Surname": "Shevchenko",
+        "Patronymic": "Petrivna",
+        "Adress": "Sadova 15",
+        "School": 10,
+        "Class": 7
+    },
+    {
+        "Name": "Andriy",
+        "Surname": "Bondarenko",
+        "Patronymic": "Mykolayovych",
+        "Adress": "Zarichna 8",
+        "School": 9,
+        "Class": 9
+    },
+    {
+        "Name": "Yuliia",
+        "Surname": "Klymenko",
+        "Patronymic": "Olexandrivna",
+        "Adress": "Centralna 45",
+        "School": 10,
+        "Class": 8
+    },
+    {
+        "Name": "Oleh",
+        "Surname": "Tkachenko",
+        "Patronymic": "Ivanovych",
+        "Adress": "Polova 11",
+        "School": 9,
+        "Class": 7
+    }
+]
