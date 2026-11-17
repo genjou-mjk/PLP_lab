@@ -1,0 +1,302 @@
+[
+  {
+    "id":1,
+    "source":"hotel",
+    "text":"The hotel was absolutely wonderful! Friendly staff and a beautiful view of the sea.",
+    "vader_compound":0.9129,
+    "tb_polarity":0.7417,
+    "tb_subjectivity":0.8333,
+    "score":0.8273,
+    "label":"positive"
+  },
+  {
+    "id":2,
+    "source":"hotel",
+    "text":"Terrible experience. The room was dirty and the staff were rude.",
+    "vader_compound":-0.8402,
+    "tb_polarity":-0.6333,
+    "tb_subjectivity":0.8,
+    "score":-0.7368,
+    "label":"negative"
+  },
+  {
+    "id":3,
+    "source":"phone",
+    "text":"I love this phone, the battery lasts forever and the camera is amazing.",
+    "vader_compound":0.8402,
+    "tb_polarity":0.55,
+    "tb_subjectivity":0.75,
+    "score":0.6951,
+    "label":"positive"
+  },
+  {
+    "id":4,
+    "source":"phone",
+    "text":"The screen cracked after one week. Very disappointing quality.",
+    "vader_compound":-0.5413,
+    "tb_polarity":-0.78,
+    "tb_subjectivity":0.91,
+    "score":-0.6606,
+    "label":"negative"
+  },
+  {
+    "id":5,
+    "source":"movie",
+    "text":"An outstanding film with brilliant acting and a touching story.",
+    "vader_compound":0.8316,
+    "tb_polarity":0.475,
+    "tb_subjectivity":0.5938,
+    "score":0.6533,
+    "label":"positive"
+  },
+  {
+    "id":6,
+    "source":"movie",
+    "text":"Boring plot, weak characters, and a really awful ending. A waste of time.",
+    "vader_compound":-0.8899,
+    "tb_polarity":-0.6438,
+    "tb_subjectivity":0.6562,
+    "score":-0.7668,
+    "label":"negative"
+  },
+  {
+    "id":7,
+    "source":"restaurant",
+    "text":"The food was delicious and the service was excellent. We will definitely come back!",
+    "vader_compound":0.8858,
+    "tb_polarity":0.5,
+    "tb_subjectivity":0.625,
+    "score":0.6929,
+    "label":"positive"
+  },
+  {
+    "id":8,
+    "source":"restaurant",
+    "text":"Cold soup, slow waiter, and overpriced drinks. I am never coming back.",
+    "vader_compound":0.0,
+    "tb_polarity":-0.3,
+    "tb_subjectivity":0.4667,
+    "score":-0.15,
+    "label":"negative"
+  },
+  {
+    "id":9,
+    "source":"delivery",
+    "text":"The package arrived on time and in perfect condition.",
+    "vader_compound":0.5719,
+    "tb_polarity":1.0,
+    "tb_subjectivity":1.0,
+    "score":0.7859,
+    "label":"positive"
+  },
+  {
+    "id":10,
+    "source":"delivery",
+    "text":"My order was delayed for two weeks and nobody answered my emails.",
+    "vader_compound":-0.2263,
+    "tb_polarity":0.0,
+    "tb_subjectivity":0.0,
+    "score":-0.1132,
+    "label":"negative"
+  },
+  {
+    "id":11,
+    "source":"book",
+    "text":"A fascinating and inspiring book. I could not put it down.",
+    "vader_compound":0.743,
+    "tb_polarity":0.3481,
+    "tb_subjectivity":0.713,
+    "score":0.5456,
+    "label":"positive"
+  },
+  {
+    "id":12,
+    "source":"book",
+    "text":"The writing is dull and the story drags on. I was bored.",
+    "vader_compound":-0.6705,
+    "tb_polarity":-0.3958,
+    "tb_subjectivity":0.75,
+    "score":-0.5332,
+    "label":"negative"
+  },
+  {
+    "id":13,
+    "source":"laptop",
+    "text":"This laptop is fast, lightweight and reliable. Highly recommended!",
+    "vader_compound":0.3367,
+    "tb_polarity":0.2,
+    "tb_subjectivity":0.57,
+    "score":0.2683,
+    "label":"positive"
+  },
+  {
+    "id":14,
+    "source":"laptop",
+    "text":"It overheats constantly and the fan is horribly loud. Worst purchase ever.",
+    "vader_compound":-0.7351,
+    "tb_polarity":-0.3,
+    "tb_subjectivity":0.7111,
+    "score":-0.5175,
+    "label":"negative"
+  },
+  {
+    "id":15,
+    "source":"cafe",
+    "text":"The coffee is okay. Nothing special, but nothing bad either.",
+    "vader_compound":0.5568,
+    "tb_polarity":0.0524,
+    "tb_subjectivity":0.5794,
+    "score":0.3046,
+    "label":"positive"
+  },
+  {
+    "id":16,
+    "source":"cafe",
+    "text":"Cozy place with great desserts and a lovely atmosphere.",
+    "vader_compound":0.836,
+    "tb_polarity":0.3667,
+    "tb_subjectivity":0.75,
+    "score":0.6013,
+    "label":"positive"
+  },
+  {
+    "id":17,
+    "source":"course",
+    "text":"The lecturer explained everything clearly and the exercises were really useful.",
+    "vader_compound":0.7089,
+    "tb_polarity":0.2,
+    "tb_subjectivity":0.1917,
+    "score":0.4544,
+    "label":"positive"
+  },
+  {
+    "id":18,
+    "source":"course",
+    "text":"Confusing lectures and useless homework. I regret taking this course.",
+    "vader_compound":-0.7579,
+    "tb_polarity":-0.4,
+    "tb_subjectivity":0.3,
+    "score":-0.579,
+    "label":"negative"
+  },
+  {
+    "id":19,
+    "source":"app",
+    "text":"The app is simple, smooth and very convenient to use.",
+    "vader_compound":0.0,
+    "tb_polarity":0.2,
+    "tb_subjectivity":0.3857,
+    "score":0.1,
+    "label":"positive"
+  },
+  {
+    "id":20,
+    "source":"app",
+    "text":"It crashes every time I open it. Completely unusable and frustrating.",
+    "vader_compound":-0.4877,
+    "tb_polarity":-0.1,
+    "tb_subjectivity":0.6,
+    "score":-0.2939,
+    "label":"negative"
+  },
+  {
+    "id":21,
+    "source":"news",
+    "text":"The city council announced a new park opening next month.",
+    "vader_compound":0.0,
+    "tb_polarity":0.0682,
+    "tb_subjectivity":0.2273,
+    "score":0.0341,
+    "label":"neutral"
+  },
+  {
+    "id":22,
+    "source":"news",
+    "text":"Heavy storms caused serious damage and left thousands without electricity.",
+    "vader_compound":-0.5423,
+    "tb_polarity":-0.1778,
+    "tb_subjectivity":0.3889,
+    "score":-0.36,
+    "label":"negative"
+  },
+  {
+    "id":23,
+    "source":"support",
+    "text":"Customer support solved my problem in five minutes. Thank you so much!",
+    "vader_compound":0.5983,
+    "tb_polarity":0.25,
+    "tb_subjectivity":0.2,
+    "score":0.4242,
+    "label":"positive"
+  },
+  {
+    "id":24,
+    "source":"support",
+    "text":"Nobody helped me, and the manager was extremely unpleasant.",
+    "vader_compound":-0.5256,
+    "tb_polarity":-0.65,
+    "tb_subjectivity":0.95,
+    "score":-0.5878,
+    "label":"negative"
+  },
+  {
+    "id":25,
+    "source":"gym",
+    "text":"Clean equipment, helpful trainers and a motivating environment. I am very happy.",
+    "vader_compound":0.9134,
+    "tb_polarity":0.6833,
+    "tb_subjectivity":0.85,
+    "score":0.7984,
+    "label":"positive"
+  },
+  {
+    "id":26,
+    "source":"gym",
+    "text":"The gym is overcrowded and the showers are always broken.",
+    "vader_compound":-0.4767,
+    "tb_polarity":-0.4,
+    "tb_subjectivity":0.4,
+    "score":-0.4384,
+    "label":"negative"
+  },
+  {
+    "id":27,
+    "source":"travel",
+    "text":"What a magnificent trip! The mountains were breathtaking.",
+    "vader_compound":0.8016,
+    "tb_polarity":1.0,
+    "tb_subjectivity":1.0,
+    "score":0.9008,
+    "label":"positive"
+  },
+  {
+    "id":28,
+    "source":"travel",
+    "text":"The flight was cancelled and the airline refused to refund the ticket. Awful.",
+    "vader_compound":-0.7351,
+    "tb_polarity":-1.0,
+    "tb_subjectivity":1.0,
+    "score":-0.8676,
+    "label":"negative"
+  },
+  {
+    "id":29,
+    "source":"shop",
+    "text":"The store opens at nine and closes at six.",
+    "vader_compound":0.0,
+    "tb_polarity":0.0,
+    "tb_subjectivity":0.0,
+    "score":0.0,
+    "label":"neutral"
+  },
+  {
+    "id":30,
+    "source":"shop",
+    "text":"Great discounts, polite cashiers, and a fantastic choice of products.",
+    "vader_compound":0.8271,
+    "tb_polarity":0.6,
+    "tb_subjectivity":0.825,
+    "score":0.7136,
+    "label":"positive"
+  }
+]

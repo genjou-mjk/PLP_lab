@@ -1,0 +1,9 @@
+{
+  "input_file": "data/sample_reviews.csv",
+  "text_column": "text",
+  "pos_threshold": 0.05,
+  "neg_threshold": -0.05,
+  "top_n_words": 10,
+  "remove_stopwords": true,
+  "output_dir": "output"
+}
