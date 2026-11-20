@@ -1,31 +1,34 @@
-﻿id,source,text,vader_compound,tb_polarity,tb_subjectivity,score,label
-1,hotel,The hotel was absolutely wonderful! Friendly staff and a beautiful view of the sea.,0.9129,0.7417,0.8333,0.8273,positive
-2,hotel,Terrible experience. The room was dirty and the staff were rude.,-0.8402,-0.6333,0.8,-0.7368,negative
-3,phone,"I love this phone, the battery lasts forever and the camera is amazing.",0.8402,0.55,0.75,0.6951,positive
-4,phone,The screen cracked after one week. Very disappointing quality.,-0.5413,-0.78,0.91,-0.6606,negative
-5,movie,An outstanding film with brilliant acting and a touching story.,0.8316,0.475,0.5938,0.6533,positive
-6,movie,"Boring plot, weak characters, and a really awful ending. A waste of time.",-0.8899,-0.6438,0.6562,-0.7668,negative
-7,restaurant,The food was delicious and the service was excellent. We will definitely come back!,0.8858,0.5,0.625,0.6929,positive
-8,restaurant,"Cold soup, slow waiter, and overpriced drinks. I am never coming back.",0.0,-0.3,0.4667,-0.15,negative
-9,delivery,The package arrived on time and in perfect condition.,0.5719,1.0,1.0,0.7859,positive
-10,delivery,My order was delayed for two weeks and nobody answered my emails.,-0.2263,0.0,0.0,-0.1132,negative
-11,book,A fascinating and inspiring book. I could not put it down.,0.743,0.3481,0.713,0.5456,positive
-12,book,The writing is dull and the story drags on. I was bored.,-0.6705,-0.3958,0.75,-0.5332,negative
-13,laptop,"This laptop is fast, lightweight and reliable. Highly recommended!",0.3367,0.2,0.57,0.2683,positive
-14,laptop,It overheats constantly and the fan is horribly loud. Worst purchase ever.,-0.7351,-0.3,0.7111,-0.5175,negative
-15,cafe,"The coffee is okay. Nothing special, but nothing bad either.",0.5568,0.0524,0.5794,0.3046,positive
-16,cafe,Cozy place with great desserts and a lovely atmosphere.,0.836,0.3667,0.75,0.6013,positive
-17,course,The lecturer explained everything clearly and the exercises were really useful.,0.7089,0.2,0.1917,0.4544,positive
-18,course,Confusing lectures and useless homework. I regret taking this course.,-0.7579,-0.4,0.3,-0.579,negative
-19,app,"The app is simple, smooth and very convenient to use.",0.0,0.2,0.3857,0.1,positive
-20,app,It crashes every time I open it. Completely unusable and frustrating.,-0.4877,-0.1,0.6,-0.2939,negative
-21,news,The city council announced a new park opening next month.,0.0,0.0682,0.2273,0.0341,neutral
-22,news,Heavy storms caused serious damage and left thousands without electricity.,-0.5423,-0.1778,0.3889,-0.36,negative
-23,support,Customer support solved my problem in five minutes. Thank you so much!,0.5983,0.25,0.2,0.4242,positive
-24,support,"Nobody helped me, and the manager was extremely unpleasant.",-0.5256,-0.65,0.95,-0.5878,negative
-25,gym,"Clean equipment, helpful trainers and a motivating environment. I am very happy.",0.9134,0.6833,0.85,0.7984,positive
-26,gym,The gym is overcrowded and the showers are always broken.,-0.4767,-0.4,0.4,-0.4384,negative
-27,travel,What a magnificent trip! The mountains were breathtaking.,0.8016,1.0,1.0,0.9008,positive
-28,travel,The flight was cancelled and the airline refused to refund the ticket. Awful.,-0.7351,-1.0,1.0,-0.8676,negative
-29,shop,The store opens at nine and closes at six.,0.0,0.0,0.0,0.0,neutral
-30,shop,"Great discounts, polite cashiers, and a fantastic choice of products.",0.8271,0.6,0.825,0.7136,positive
+﻿id,text,vader_compound,tb_polarity,tb_subjectivity,score,label
+1,"id,source,text",0.0,0.0,0.0,0.0,neutral
+2,"1,hotel,""The hotel was absolutely wonderful! Friendly staff and a beautiful view of the sea.""",0.9129,0.7417,0.8333,0.8273,positive
+3,"2,hotel,""Terrible experience. The room was dirty and the staff were rude.""",-0.4404,-0.6333,0.8,-0.5369,negative
+4,"3,phone,""I love this phone, the battery lasts forever and the camera is amazing.""",0.6369,0.55,0.75,0.5935,positive
+5,"4,phone,""The screen cracked after one week. Very disappointing quality.""",-0.5413,-0.78,0.91,-0.6606,negative
+6,"5,movie,""An outstanding film with brilliant acting and a touching story.""",0.8316,0.475,0.5938,0.6533,positive
+7,"6,movie,""Boring plot, weak characters, and a really awful ending. A waste of time.""",-0.8503,-0.6438,0.6562,-0.747,negative
+8,"7,restaurant,""The food was delicious and the service was excellent. We will definitely come back!""",0.8858,0.5,0.625,0.6929,positive
+9,"8,restaurant,""Cold soup, slow waiter, and overpriced drinks. I am never coming back.""",0.0,-0.3,0.4667,-0.15,negative
+10,"9,delivery,""The package arrived on time and in perfect condition.""",0.5719,1.0,1.0,0.7859,positive
+11,"10,delivery,""My order was delayed for two weeks and nobody answered my emails.""",-0.2263,0.0,0.0,-0.1132,negative
+12,"11,book,""A fascinating and inspiring book. I could not put it down.""",0.743,0.3481,0.713,0.5456,positive
+13,"12,book,""The writing is dull and the story drags on. I was bored.""",-0.5267,-0.3958,0.75,-0.4613,negative
+14,"13,laptop,""This laptop is fast, lightweight and reliable. Highly recommended!""",0.0,0.2,0.57,0.1,positive
+15,"14,laptop,""It overheats constantly and the fan is horribly loud. Worst purchase ever.""",-0.7351,-0.3,0.7111,-0.5175,negative
+16,"15,cafe,""The coffee is okay. Nothing special, but nothing bad either.""",0.5568,0.0524,0.5794,0.3046,positive
+17,"16,cafe,""Cozy place with great desserts and a lovely atmosphere.""",0.836,0.3667,0.75,0.6013,positive
+18,"17,course,""The lecturer explained everything clearly and the exercises were really useful.""",0.4019,0.2,0.1917,0.3009,positive
+19,"18,course,""Confusing lectures and useless homework. I regret taking this course.""",-0.6808,-0.4,0.3,-0.5404,negative
+20,"19,app,""The app is simple, smooth and very convenient to use.""",0.0,0.2,0.3857,0.1,positive
+21,"20,app,""It crashes every time I open it. Completely unusable and frustrating.""",0.0,-0.1,0.6,-0.05,negative
+22,"21,news,""The city council announced a new park opening next month.""",0.0,0.0682,0.2273,0.0341,neutral
+23,"22,news,""Heavy storms caused serious damage and left thousands without electricity.""",-0.5423,-0.1778,0.3889,-0.36,negative
+24,"23,support,""Customer support solved my problem in five minutes. Thank you so much!""",0.5983,0.25,0.2,0.4242,positive
+25,"24,support,""Nobody helped me, and the manager was extremely unpleasant.""",0.0,-0.65,0.95,-0.325,negative
+26,"25,gym,""Clean equipment, helpful trainers and a motivating environment. I am very happy.""",0.7184,0.6833,0.85,0.7009,positive
+27,"26,gym,""The gym is overcrowded and the showers are always broken.""",0.0,-0.4,0.4,-0.2,negative
+28,"27,travel,""What a magnificent trip! The mountains were breathtaking.""",0.636,1.0,1.0,0.818,positive
+29,"28,travel,""The flight was cancelled and the airline refused to refund the ticket. Awful.""",-0.4939,-1.0,1.0,-0.747,negative
+30,"29,shop,""The store opens at nine and closes at six.""",0.0,0.0,0.0,0.0,neutral
+31,"30,shop,""Great discounts, polite cashiers, and a fantastic choice of products.""",0.5574,0.6,0.825,0.5787,positive
+32,"31,misc,",0.0,0.0,0.0,0.0,neutral
+33,"32,misc,""   """,0.0,0.0,0.0,0.0,neutral

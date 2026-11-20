@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "source": "laptop",
+    "text": "This laptop is fast, lightweight and reliable. Highly recommended!"
+  },
+  {
+    "id": 2,
+    "source": "laptop",
+    "text": "It overheats constantly and the fan is horribly loud. Worst purchase ever."
+  },
+  {
+    "id": 3,
+    "source": "shop",
+    "text": "The store opens at nine and closes at six."
+  }
+]

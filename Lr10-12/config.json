@@ -1,5 +1,5 @@
 {
-  "input_file": "data/sample_reviews.csv",
+  "input_file": "data",
   "text_column": "text",
   "pos_threshold": 0.05,
   "neg_threshold": -0.05,

@@ -10,7 +10,7 @@ from preprocessing import TextPreprocessor
 from reporter import ReportGenerator, ResultSaver
 from visualizer import Visualizer
 
-DEFAULTS = {"input_file": "data/sample_reviews.csv", "text_column": "text",
+DEFAULTS = {"input_file": "data", "text_column": "text",
             "pos_threshold": 0.05, "neg_threshold": -0.05, "top_n_words": 10,
             "remove_stopwords": True, "output_dir": "output"}
 
@@ -40,11 +40,12 @@ class SentimentApp:
 
     # ---------- етапи ----------
     def load(self):
-        print(f"\n[1/5] Завантаження файлу '{self.cfg['input_file']}'...")
+        print(f"\n[1/5] Пошук та завантаження файлу з '{self.cfg['input_file']}'...")
         loader = DataLoader(self.cfg["input_file"], self.cfg["text_column"])
         self.df = loader.load()
+        print(f"      Зчитано файл: {loader._path}")
         print(f"      Завантажено повідомлень: {len(self.df)} "
-              f"(відкинуто порожніх/дублікатів: {loader.removed})")
+            f"(відкинуто порожніх/дублікатів: {loader.removed})")
 
     def analyze(self):
         if self.df is None:
